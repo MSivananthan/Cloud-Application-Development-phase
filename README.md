@@ -48,13 +48,13 @@ This project, developed in collaboration with **Naan Mudhalavan**, aims to creat
 
 The application is built on a microservices architecture, with each service handling a specific aspect of the application. The services communicate over REST APIs and are orchestrated using Kubernetes.
 
-
+<img src="https://github.com/MSivananthan/Cloud-Application-Development-phase/blob/main/Cloud%20Application%20Development.png">
 
 ## Setup and Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/naan-mudhalavan/cloud-application-development.git
+   git clone https://github.com/MSivananthan/Cloud-Application-Development-phase.git
    cd cloud-application-development
    ```
 
